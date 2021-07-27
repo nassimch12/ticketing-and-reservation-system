@@ -1,0 +1,2 @@
+ f1234 : Shanghai-->chicago :.15/07/2021 ;10:30; plane
+ f2345 : Moscow-->paris :.17/08/2021 ;12:45; plane

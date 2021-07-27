@@ -1,0 +1,13 @@
+vehicle : Plane 
+class : economy : 250$
+rows : 50
+aisle : 50
+middle : 50
+window : 50
+class : business : 400$
+rows : 18
+aisle : 18
+window : 18
+class : first : 500$
+rows : 20
+window : 20
